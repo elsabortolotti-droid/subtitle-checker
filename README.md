@@ -62,4 +62,4 @@ python3 subtitle_checker.py video.srt --report report.txt
 
 ## Contesto
 
-Sviluppato a partire dall'esperienza in post-produzione video per Sky Italia, Mediaset (Donnavventura) e Local Team, dove la verifica dei sottotitoli fa parte del flusso QA standard prima della messa in onda.
+Progetto Python sviluppato per approfondire il QA testing applicato al mondo broadcast e media. I file .srt sono un formato standard nel settore televisivo e streaming — validarli automaticamente è un caso d'uso reale e concreto che unisce competenze tecniche di scripting con la conoscenza del dominio audiovisivo.
